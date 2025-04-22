@@ -19,5 +19,5 @@ A relational MySQL database system designed to manage users, geotagged photograp
 
 ## Files Included
 
-- `CS303_Database_Assignment.docx` – Documentation with screenshots and query output
-- `schema.sql` – SQL commands used to create and populate the database
+- `final-project.docx` – Documentation with screenshots and query output
+- `script.sql` – SQL commands used to create and populate the database
