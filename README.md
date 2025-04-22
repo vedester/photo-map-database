@@ -1,2 +1,23 @@
-# photo-map-database
-A basic MySQL database system for managing users, geotagged photographs, and location data using relational design principles.
+
+# Photo Map Database
+
+A relational MySQL database system designed to manage users, geotagged photographs, and locations. This project demonstrates database creation, data integrity enforcement, indexing, and relational queries.
+
+## Features
+
+- Users with personal and location details
+- Locations with GPS coordinates
+- Photographs linked to users and geotagged data
+- Indexing for performance optimization
+- SQL queries to retrieve, filter, and analyze data
+
+## Technologies
+
+- MySQL
+- MySQL Workbench
+- SQL
+
+## Files Included
+
+- `CS303_Database_Assignment.docx` – Documentation with screenshots and query output
+- `schema.sql` – SQL commands used to create and populate the database
